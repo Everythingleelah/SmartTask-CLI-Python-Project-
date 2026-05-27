@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 SmartTask CLI - An intelligent command-line task manager
-Author: Your Name
+Author: Deborah Lambert
 License: MIT
 """
 
