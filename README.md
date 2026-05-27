@@ -115,4 +115,4 @@ python3 -m pytest tests/ -v
 
 ## License
 
-MIT — free to use, modify, and distribute.
+MIT: free to use, modify, and distribute.
